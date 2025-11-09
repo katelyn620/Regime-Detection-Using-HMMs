@@ -1,1 +1,1 @@
-# Regime-Detection-Using-HMMs
+# Regime Detection in Financial Markets Using Hidden Markov Models
